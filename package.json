@@ -1,6 +1,6 @@
 {
-  "homepage": "https://aewagner.github.io/portfolio",
-  "name": "portfolio",
+  "homepage": "https://aewagner.github.io/AW",
+  "name": "aw",
   "version": "0.1.0",
   "private": true,
   "dependencies": {

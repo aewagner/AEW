@@ -37,6 +37,8 @@ p {
     line-height: 1.6;
     margin: 0 0 35px;
   }
+
+
   .email-icon {
     margin-bottom: 5rem;
   }
@@ -46,6 +48,7 @@ p {
   body {
     background-image: url("./mobile-background.jpg");
   }
+
 
   .email-icon {
     margin-bottom: 5rem;
@@ -57,6 +60,7 @@ p {
   body {
     background-image: url("./mobile-background.jpg");
   }
+
 
   .email-icon {
     margin-bottom: 5rem;

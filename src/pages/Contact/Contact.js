@@ -13,7 +13,7 @@ const Contact = () => (
                             (626) 386-3960
                         </p>
 
-                        <a href="mailto:austin.e.wagner@gmail.com" target="new">
+                        <a href="mailto:austin.e.wagner@gmail.com" rel="noopener noreferrer" target="_blank">
                             <p className="email-link">austin.e.wagner@gmail.com </p>
                         </a>
 
@@ -29,22 +29,22 @@ const Contact = () => (
                     <div className="links">
                         <div className="row">
                             <div className="col-lg-3">
-                                <a href="https://github.com/aewagner" target="new">
+                                <a href="https://github.com/aewagner" rel="noopener noreferrer" target="_blank">
                                     <img src="images/github.svg" alt="GitHub" className="img-links img-fluid"></img>
                                 </a>
                             </div>
                             <div className="col-lg-3">
-                                <a href="https://www.linkedin.com/in/austinewagner/" target="new">
+                                <a href="https://www.linkedin.com/in/austinewagner/" rel="noopener noreferrer" target="_blank">
                                     <img src="images/linkedin.svg" alt="linkedIn" className="img-links img-fluid" id="img-linkedin"></img>
                                 </a>
                             </div>
                             <div className="col-lg-3">
-                                <a href="https://angel.co/aewagner" target="new">
+                                <a href="https://angel.co/aewagner" rel="noopener noreferrer" target="_blank">
                                     <img src="images/angellist-black.svg" alt="AngelList" className="img-links img-fluid"></img>
                                 </a>
                             </div>
                             <div className="col-lg-3 email-icon">
-                                <a href="mailto:austin.e.wagner@gmail.com" target="new">
+                                <a href="mailto:austin.e.wagner@gmail.com" rel="noopener noreferrer" target="_blank">
                                     <img src="images/email.svg" alt="email" className="img-links img-fluid"></img>
                                 </a>
                             </div>

@@ -10,20 +10,17 @@ const Card = props => (
       <h1 className="text-center project-title">{props.title}</h1>
       <ul className="nav justify-content-center">
         <li>
-          <a href={props.github} target="_new">
+          <a href={props.github} rel="noopener noreferrer" target="_blank">
             <button type="button" className="btn btn-outline-light project-button">GitHub</button>
           </a>
         </li>
-        <a href={props.live} target="_new">
+        <a href={props.live} rel="noopener noreferrer" target="_blank">
           <li>
             <button type="button" className="btn btn-outline-light project-button">Live</button>
           </li>
         </a>
       </ul>
     </div>
-    {/* <span onClick={() => props.removeFriend(props.id)} className="remove">
-      𝘅
-    </span> */}
   </div>
 );
 

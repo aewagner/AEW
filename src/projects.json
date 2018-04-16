@@ -9,7 +9,7 @@
   },
   {
     "id": 2,
-    "title": "React Memory Game",
+    "title": "Clicky Game",
     "image": "./images/clickyGame.png",
     "alt": "Clicky Game",
     "github": "https://github.com/aewagner/Clicky-Game",
@@ -17,7 +17,7 @@
   },
   {
     "id": 3,
-    "title": "Crypto-Currency Portfolio",
+    "title": "Cryptolio",
     "image": "images/cryptolio.png",
     "alt": "Cryptolio",
     "github": "https://github.com/brohlson/cryptolio",
@@ -33,7 +33,7 @@
   },
   {
     "id": 5,
-    "title": "E-commerce Site",
+    "title": " The Good Book (E-commerce Site)",
     "image": "images/theGoodBook.png",
     "alt": "The Good Book E-commerce Site",
     "github": "https://github.com/cooploops/thegoodbook",
@@ -46,5 +46,21 @@
     "alt": "Incremental YouTube Search",
     "github": "https://github.com/aewagner/React-YouTubeSearch",
     "live": "https://aewagner.github.io/React-YouTubeSearch/"
+  },
+  {
+    "id": 7,
+    "title": "Rick & Morty Trivia",
+    "image": "images/rickAndMortyTrivia.png",
+    "alt": "Rick and Morty Trivia",
+    "github": "https://github.com/aewagner/Rick-And-Morty-Trivia",
+    "live": "https://aewagner.github.io/Rick-And-Morty-Trivia/"
+  },
+  {
+    "id": 8,
+    "title": "RPS Multiplayer & Chat",
+    "image": "images/rpsMultiplayer.png",
+    "alt": "RPS Multiplayer & Chat",
+    "github": "https://github.com/aewagner/RPS-Multiplayer",
+    "live": "https://aewagner.github.io/RPS-Multiplayer/"
   }
 ]
